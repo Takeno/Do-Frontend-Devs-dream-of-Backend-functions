@@ -1,0 +1,34 @@
+{
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/Router.js": {
+    "id": "./src/Router.js",
+    "chunks": [
+      "main",
+      "main.js"
+    ],
+    "name": "*"
+  },
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/Counter.js": {
+    "id": "./src/Counter.js",
+    "chunks": [
+      "client0",
+      "client0.main.js"
+    ],
+    "name": "*"
+  },
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/NavigateButton.js": {
+    "id": "./src/NavigateButton.js",
+    "chunks": [
+      "client1",
+      "client1.main.js"
+    ],
+    "name": "*"
+  },
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/NavigateButtonT.js": {
+    "id": "./src/NavigateButtonT.js",
+    "chunks": [
+      "client2",
+      "client2.main.js"
+    ],
+    "name": "*"
+  }
+}

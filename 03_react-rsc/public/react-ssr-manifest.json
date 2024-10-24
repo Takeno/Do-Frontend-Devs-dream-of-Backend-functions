@@ -1,0 +1,14 @@
+{
+  "moduleLoading": {
+    "prefix": "auto",
+    "crossOrigin": null
+  },
+  "moduleMap": {
+    "./src/Counter.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/03_react-rsc/src/Counter.js",
+        "name": "*"
+      }
+    }
+  }
+}

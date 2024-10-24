@@ -1,0 +1,18 @@
+{
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/react-pipe-stream-playground/src/Router.js": {
+    "id": "./src/Router.js",
+    "chunks": [
+      "main",
+      "main.js"
+    ],
+    "name": "*"
+  },
+  "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/react-pipe-stream-playground/src/Counter.js": {
+    "id": "./src/Counter.js",
+    "chunks": [
+      "client0",
+      "client0.main.js"
+    ],
+    "name": "*"
+  }
+}
