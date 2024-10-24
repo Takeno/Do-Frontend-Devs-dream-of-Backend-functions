@@ -1,0 +1,21 @@
+{
+  "name": "react-pipe-stream",
+  "version": "1.0.0",
+  "description": "Test project for renderToPipeableStream",
+  "scripts": {
+    "build:client": "esbuild --bundle client.jsx --outfile=dist/client.js",
+    "start": "npm run build:client && node server.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "express": "^4.18.2",
+    "react": "19.0.0-rc-09111202-20241011",
+    "react-dom": "19.0.0-rc-09111202-20241011"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7",
+    "@babel/register": "^7.25.7",
+    "webpack": "^5.95.0"
+  }
+}

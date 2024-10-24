@@ -1,0 +1,20 @@
+{
+  "moduleLoading": {
+    "prefix": "auto",
+    "crossOrigin": null
+  },
+  "moduleMap": {
+    "./src/Router.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/react-pipe-stream-playground/src/Router.js",
+        "name": "*"
+      }
+    },
+    "./src/Counter.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/react-pipe-stream-playground/src/Counter.js",
+        "name": "*"
+      }
+    }
+  }
+}

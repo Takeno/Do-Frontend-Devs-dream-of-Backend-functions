@@ -1,0 +1,32 @@
+{
+  "moduleLoading": {
+    "prefix": "auto",
+    "crossOrigin": null
+  },
+  "moduleMap": {
+    "./src/Router.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/Router.js",
+        "name": "*"
+      }
+    },
+    "./src/Counter.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/Counter.js",
+        "name": "*"
+      }
+    },
+    "./src/NavigateButton.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/NavigateButton.js",
+        "name": "*"
+      }
+    },
+    "./src/NavigateButtonT.js": {
+      "*": {
+        "specifier": "file:///Users/takeno/Workspace/Talks/do-react-devs-dream-be-functions/04_react-rsc-router/src/NavigateButtonT.js",
+        "name": "*"
+      }
+    }
+  }
+}
